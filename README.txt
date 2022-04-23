@@ -19,4 +19,4 @@ project3/qlearningAgents.py
 project3/valueIterationAgents.py
 project4/inference.py
 
-Much of the credit and work goes to Ethan Glassman, my partner for this project.
+Much of the credit and work also goes to Ethan Glassman, my partner for this project.
